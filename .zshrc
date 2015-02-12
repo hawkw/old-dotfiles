@@ -45,7 +45,7 @@ CASE_SENSITIVE="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git tmux ssh z brew gradle osx python sbt scala)
+plugins=(git gitfast tmux ssh z brew gradle osx pip python sbt scala)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -83,3 +83,5 @@ alias ohmyzsh="subl ~/.oh-my-zsh"
 
 PERL_MB_OPT="--install_base \"/Users/hawk/perl5\""; export PERL_MB_OPT;
 PERL_MM_OPT="INSTALL_BASE=/Users/hawk/perl5"; export PERL_MM_OPT;
+
+ZSH_TMUX_AUTOSTART=true;
