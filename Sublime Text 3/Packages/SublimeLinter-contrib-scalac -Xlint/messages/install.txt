@@ -1,0 +1,10 @@
+SublimeLinter-contrib-scalac -Xlint
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to scalac -Xlint.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/Hawk Weisman/SublimeLinter-contrib-scalac -Xlint

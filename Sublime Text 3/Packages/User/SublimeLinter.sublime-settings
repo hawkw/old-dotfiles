@@ -1,0 +1,45 @@
+{
+	"user":
+	{
+		"gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+		"lint_mode": "background",
+		"linters":
+		{
+			"chktex":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"erroron":
+				[
+					16
+				],
+				"excludes":
+				[
+				],
+				"inputfiles":
+				[
+					0
+				],
+				"nowarn":
+				[
+					22,
+					30
+				]
+			},
+			"javac":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"lint": ""
+			}
+		},
+		"mark_style": "solid underline"
+	}
+}

@@ -1,0 +1,4 @@
+{
+    "glue_userpath": "/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin/gradle/bin",
+    "glue_shellpath": "/usr/bin/zsh"
+}

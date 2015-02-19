@@ -1,0 +1,1 @@
+{"version": "1.2.0", "platforms": ["*"], "url": "http://timonwong.github.io/ScalaFormat/", "sublime_text": "*", "dependencies": [], "description": "Yet another Scala code formatter for Sublime Text."}

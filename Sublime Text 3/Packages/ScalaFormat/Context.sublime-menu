@@ -1,0 +1,10 @@
+[
+    { "caption": "-", "id": "file" },
+    {
+        "caption": "ScalaFormat",
+        "children":
+        [
+            {"id": "ScalaFormat", "caption": "Format", "command": "scala_format" }
+        ]
+    }
+]

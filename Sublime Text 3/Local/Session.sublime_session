@@ -1,0 +1,5061 @@
+{
+	"folder_history":
+	[
+		"/Users/hawk/Development/hawkw.github.io",
+		"/Users/hawk/Development/bigyll",
+		"/Users/hawk/Library/texmf/tex/latex/assets",
+		"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-lab3",
+		"/Users/hawk/Development/lsystems/doc",
+		"/Users/hawk/Development/lsystems",
+		"/Users/hawk/Development/l-systems",
+		"/Users/hawk/.oh-my-zsh",
+		"/Users/hawk/.config",
+		"/Users/hawk/Documents/School/2015S/CMPSC580/Week5",
+		"/Users/hawk/Desktop/recipes",
+		"/Users/hawk/Development/fractals",
+		"/Users/hawk/Development/carrden",
+		"/Users/hawk/Development/deebee",
+		"/Users/hawk/Development/seax",
+		"/Users/hawk/Development/hawkw.github.io/notebook/_drafts",
+		"/Users/hawk/Development/hawkw.github.io/notebook/_posts",
+		"/Users/hawk/Documents/School",
+		"/Users/hawk/Documents/School/2015S",
+		"/Users/hawk/Development/deebee/doc/assets/figures",
+		"/Users/hawk/Development/meteorcode-website",
+		"/Users/hawk/Documents/School/2014F/CMPSC420",
+		"/Users/hawk/Development",
+		"/Users/hawk/Development/pathway",
+		"/Users/hawk/Development/decaf",
+		"/Users/hawk/Development/linguist",
+		"/Users/hawk/Development/decaf/src/test/resources/lab4-samples",
+		"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk",
+		"/Users/hawk/Development/deebee/difftest",
+		"/Users/hawk",
+		"/Users/hawk/Documents/School/2014F/ECON100",
+		"/Users/hawk/Documents/School/2014F",
+		"/Users/hawk/Development/deebee/doc",
+		"/Users/hawk/Downloads/ryanyy-cs111f2014-yamadar-sharcae-6df9abcaa472",
+		"/Users/hawk/Documents/School/2014F/CMPSC380",
+		"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4",
+		"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab4-team4/sqlviz",
+		"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/Labs/lab2/decaf",
+		"/Users/hawk/Documents/School/2014F/CMPSC420/cs420f2014/labs/lab2/parser_files/pp2",
+		"/Users/hawk/Development/go",
+		"/Users/hawk/Development/go/src",
+		"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab3-team1/src",
+		"/Users/hawk/Documents/School/2014F/CMPSC420/cs420f2014/labs/lab1",
+		"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/homeworks/homework1",
+		"/Users/hawk/Development/pathway-dialogue",
+		"/Users/hawk/Development/learn-rust",
+		"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab3-team1",
+		"/Users/hawk/Library/Application Support/Sublime Text 3/Packages/SublimeLinter-contrib-scalac -Xlint",
+		"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/lab1",
+		"/Users/hawk/Documents/School/2014S",
+		"/Users/hawk/Development/dotfriles",
+		"/Users/hawk/Development/breadplan"
+	],
+	"last_version": 3065,
+	"last_window_id": 166,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 978.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Atom",
+						"AtomCell"
+					],
+					[
+						"Iterator",
+						"IteratorExt"
+					],
+					[
+						"SVM",
+						"SVMInstruction"
+					],
+					[
+						"a",
+						"var_a"
+					],
+					[
+						"time",
+						"time_extract"
+					],
+					[
+						"qty.",
+						"qty.demand"
+					],
+					[
+						"for",
+						"for_selectlike"
+					],
+					[
+						"Memory",
+						"MemoryBenchmark"
+					],
+					[
+						"select",
+						"selectlike"
+					],
+					[
+						"reporter",
+						"Reporter"
+					],
+					[
+						"REse",
+						"ResearchBenchmark"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"rancher",
+						"rancher-after"
+					],
+					[
+						"meat",
+						"meatpotato"
+					],
+					[
+						"variable",
+						"variableDecl"
+					],
+					[
+						"next",
+						"next_char"
+					],
+					[
+						"coord",
+						"coord_flip"
+					],
+					[
+						"type",
+						"TYPE_LITERALS"
+					],
+					[
+						"q_",
+						"q_char_sequence"
+					],
+					[
+						"q",
+						"q-char"
+					],
+					[
+						"q-char",
+						"q-char-sequence"
+					],
+					[
+						"s_char",
+						"s_char_sequence"
+					],
+					[
+						"char",
+						"c_char_sequence"
+					],
+					[
+						"c_char",
+						"c_char_sequence"
+					],
+					[
+						"hexa",
+						"hexadecimal_escape_sequence"
+					],
+					[
+						"oct",
+						"octal_escape_sequence"
+					],
+					[
+						"hex",
+						"hexadecimal_digit"
+					],
+					[
+						"hexadecimal_",
+						"hexadecimal_fractional_constant"
+					],
+					[
+						"float",
+						"floating_suffix"
+					],
+					[
+						"ex",
+						"exponent_part"
+					],
+					[
+						"hexade",
+						"hexadecimal_digit"
+					],
+					[
+						"digit",
+						"digit_sequence"
+					],
+					[
+						"integ",
+						"integer_suffix"
+					],
+					[
+						"hexadec",
+						"hexadecimal_constant"
+					],
+					[
+						"octal",
+						"octal_digit"
+					],
+					[
+						"unsi",
+						"unsigned_suffix"
+					],
+					[
+						"uns",
+						"unsigned_suffix"
+					],
+					[
+						"long_",
+						"long_long_suffix"
+					],
+					[
+						"blooms",
+						"blooms"
+					],
+					[
+						"packages",
+						"packages"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 239.0,
+				"selected_items":
+				[
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						" git push",
+						"Git: Push"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Commit"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"git amen",
+						"Git: Amend Commit"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"preview in",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"git ame",
+						"Git: Amend Commit"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						" git com",
+						"Git: Commit"
+					],
+					[
+						"git commit ",
+						"Git: Amend Commit"
+					],
+					[
+						"git add ",
+						"Git: Add..."
+					],
+					[
+						"git pusg",
+						"Git: Push Tags"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"git p",
+						"Git: Pull"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: Install Package"
+					],
+					[
+						"gitignored",
+						"Git: Update Project Ignored Files"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"repl r",
+						"SublimeREPL: R"
+					],
+					[
+						"latextools",
+						"LaTeXTools: Reconfigure and migrate settings"
+					],
+					[
+						"build",
+						"Build: Build"
+					],
+					[
+						"latex",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"replcloj",
+						"SublimeREPL: Clojure"
+					],
+					[
+						"g tiadd",
+						"Git: Add Current File"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"repl",
+						"SublimeREPL: Ruby"
+					],
+					[
+						"rep",
+						"SublimeREPL: R"
+					],
+					[
+						"r",
+						"SublimeREPL: R"
+					],
+					[
+						" git commit",
+						"Git: Commit"
+					],
+					[
+						"preivew",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"packge control",
+						"Package Control: Install Package"
+					],
+					[
+						"python",
+						"SublimeREPL: Python"
+					],
+					[
+						"scala",
+						"SublimeREPL: Scala"
+					],
+					[
+						"markdown",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"pyth",
+						"SublimeREPL: Python"
+					],
+					[
+						"repl hask",
+						"SublimeREPL: Haskell"
+					],
+					[
+						"pyt",
+						"SublimeREPL: Python"
+					],
+					[
+						"prev",
+						"Preview Graphviz Snippet"
+					],
+					[
+						"pre",
+						"Preview Graphviz Snippet"
+					],
+					[
+						"previ",
+						"Preview Graphviz Snippet"
+					],
+					[
+						"sublimerepl ipy",
+						"SublimeREPL: Python - IPython"
+					],
+					[
+						"loadf",
+						"SublimeREPL: Load current file"
+					],
+					[
+						"gfm",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"git fet",
+						"Git: Fetch"
+					],
+					[
+						"git commt",
+						"Git: Commit"
+					],
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"package control",
+						"Package Control: Add Repository"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"glue",
+						"Glue - Launch"
+					],
+					[
+						"gl",
+						"Glue - Launch"
+					],
+					[
+						"re",
+						"SublimeREPL: Elixir"
+					],
+					[
+						"sublimerepl",
+						"SublimeREPL: Python - IPython"
+					],
+					[
+						"linter create",
+						"SublimeLinter: Create Linter Plugin"
+					],
+					[
+						"lint",
+						"SublimeLinter: Choose Mark Style"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"lint ",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"load",
+						"SublimeREPL: Load current file"
+					],
+					[
+						"load file",
+						"Preferences: LoadFileToRepl Settings"
+					],
+					[
+						"subl",
+						"SublimeREPL: Scala"
+					],
+					[
+						"quan",
+						"Go to QuantifiedDev Dashboard"
+					],
+					[
+						"markd",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"repl sca",
+						"SublimeREPL: Scala"
+					],
+					[
+						"r-b",
+						"R-Box Application"
+					],
+					[
+						"rb",
+						"R-Box Application"
+					],
+					[
+						"view",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"late",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"pdf",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"prevei",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"packag",
+						"Package Control: Install Package"
+					],
+					[
+						"subcl",
+						"Subclim: Request completions"
+					],
+					[
+						"subclim",
+						"Subclim: Request completions"
+					],
+					[
+						"set ecl",
+						"Subclim: Set Eclim executable path"
+					]
+				],
+				"width": 489.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					" print(view.syntax_name(view.sel()[0].begin()))",
+					"print(view.syntax_name(view.sel()[0].begin()))",
+					" print(view.syntax_name(view.sel()[0].begin()))",
+					"print (view.syntax_name(view.sel()[0].b))",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment13/Assignment13.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment14/Mod1LightningTalk-weismanm.pdf",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment14",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/cell.rs",
+				"/Users/hawk/Development/seax/seax_svm/src/lib.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Assignment12.bib",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Assignment12.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Precis.tex",
+				"/Users/hawk/conf",
+				"/Users/hawk/.zshrc",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-lab3/jobs.md",
+				"/Users/hawk/Library/texmf/tex/latex/assets/cs-pre.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Precis.bib",
+				"/Users/hawk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/hawk/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+				"/Users/hawk/.tmux.conf",
+				"/Users/hawk/~tmux.conf",
+				"/Users/hawk/Development/seax/seax_svm/src/liblib.rlib",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/slist.rs",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/state.rs",
+				"/Users/hawk/Development/seax/seax_svm/src/svm",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/slist/mod.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/cs580s2015-share/slides-template/simple/SampleSlides.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4/LightningTalk.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4/WFCSPrecis.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/Summaries.pdf",
+				"/Users/hawk/Development/seax/seax_svm/src/slist.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4/FiveIdeas.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4",
+				"/Users/hawk/Development/seax/Cargo.toml",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/CMPSC383 Day 6.md",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/CoverLetter-Twitter.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/InternshipList.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/CoverLetter.tex",
+				"/Users/hawk/Documents/School/school.sublime-project",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/StupidModel.rs/styles/stupidmodel.agents.Predator.style_1.xml",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/StupidModel.rs/styles/stupidmodel.agents.Predator.style_0.xml",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/StupidModel.rs/styles/stupidmodel.agents.Predator.style_0.xml",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/src/main/scala/edu/allegheny/SerializationBenchmarks/GeneralTree.java",
+				"/Users/hawk/Documents/School/2013F/CS290/cs290f2013-lab4-team3/src/edu/allegheny/datagenTest/DatagenTests.java",
+				"/Users/hawk/Documents/School/2013F/CS290/cs290f2013-lab4-team3/src/edu/allegheny/datagenTest/DatagenTest.java",
+				"/Users/hawk/Documents/School/2013F/CS290/cs290f2013-lab5-team4/ReleasePlanner/doc/ActivityGraph.dot",
+				"/Users/hawk/Documents/School/2013F/CS210/array",
+				"/Users/hawk/Documents/School/2013S/CS112/QueueLab/src/serialized-form.html",
+				"/Users/hawk/Development/seax/README.md",
+				"/Users/hawk/Development/deebee/src/main/scala/deebee/storage/RelationActor.scala",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015/lectures/week1/StupidModel/repast-licenses/proactive-license.txt",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/PaperReviews.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/CanonicalElements.md",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/PaperReviews.bib",
+				"/Users/hawk/Development/carrden/src/main/scala/ScalatraBootstrap.scala",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420f2014/labs/lab4/WorkingCodeGenerator_mips/list.h",
+				"/Users/hawk/Development/seax/LICENSE",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/PaperReviews.pdf",
+				"/Users/hawk/Development/seax/seax-svm/src/lib.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment6/LaTeX Document.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment6/Beamer Presentation.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/Week3",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/cs580s2015-share/terminal.glue",
+				"/Users/hawk/Development/hawkw.github.io/website.sublime-project",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/src/stupidmodel/agents/Predator.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/src/stupidmodel/agents/Predator.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/Report.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/src/stupidmodel/agents/Bug.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/src/stupidmodel/StupidModelContextBuilder.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/src/stupidmodel/agents/Bug.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/src/stupidmodel/StupidModelContextBuilder.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/.gitignore",
+				"/Users/hawk/Development/seax/seax-svm/src/slist.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/InterestStmt.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/PaperReview.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/CMPSC383 Day 3.md",
+				"/Users/hawk/Documents/sotu.c",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/Summaries.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/CMPSC383 Day 2.md",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week1/SurveyOfInterests.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week1/Trampoline.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week1/new.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2",
+				"/Users/hawk/Development/pathway/build.gradle",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/Notes/CMPSC383 Day 2.md",
+				"/Users/hawk/Development/deebee/.gitignore",
+				"/Users/hawk/Development/deebee/doc/cs420-final.blg",
+				"/Users/hawk/Development/deebee/doc/assets/final.bib",
+				"/Users/hawk/Development/decaf/function1.j",
+				"/Users/hawk/Development/decaf/for1.j",
+				"/Users/hawk/Development/decaf/function2",
+				"/Users/hawk/Development/pathway/src/main/java/com/meteorcode/pathway/io/ResourceManager.scala",
+				"/Users/hawk/Development/byol",
+				"/Users/hawk/Development/decaf/for4.j",
+				"/Users/hawk/Desktop/op8.j",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/finalExam/recur.s",
+				"/Users/hawk/Development/decaf/if5.j",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/.gitiGNORE",
+				"/Users/hawk/Development/decaf/op1.j",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 17.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/finalExam/420pre.tex",
+				"/Users/hawk/Development/decaf/src/test/resources/lab4-samples/rec.decaf",
+				"/Users/hawk/Development/decaf/src/test/resources/lab4-samples/class1.decaf",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/.gitignore",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/lab1/lab1.bib",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/Labs/decaf/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/Labs/decaf/build/tmp/scala/compilerAnalysis/compileScala.analysis",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/doc/assets/runs.sh-session",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/src/main/scala/edu/allegheny/SerializationBenchmarks/RandomTreeBuilder.java",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/.gradle/2.0/taskArtifacts/taskArtifacts.bin",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab4-team4/resources/iTrust.sql",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/terminal.glue",
+				"/Users/hawk/Development/deebee/build.sbt",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 30.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 29.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab8-team4/graph.r",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 28.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/Notes/CMPSC380 Day 22.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter14/Ch14.tex",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/Notes/CMPSC380 Day 21.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/Notes/CMPSC38- Day 22.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter14",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter19",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 17/ECON100 Day 29.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 27.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 17/ECON100 Day 28.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 26.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 25.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab8-team4/doc/assets/380pre.tex",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter9/Ch9.tex",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 23.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 24.md"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 94.0,
+				"where_history":
+				[
+					"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/Labs/decaf/src/test/resources/lab2-samples",
+					"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab3-team1/analysis/data/small",
+					"/Users/hawk/Development/pathway/src/com/meteorcode/",
+					"/Users/hawk/Development/pathway/src/com/meteorcode/pathway/io"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"AP",
+					"ap",
+					"citename",
+					"ested",
+					"ListCell",
+					"Float(2)",
+					"Float(2",
+					"multiplication",
+					"MUL",
+					"SVMInstruction",
+					"InstCONS",
+					"InstCDR",
+					"InstCAR",
+					"InstATOM",
+					"InstLT",
+					"InstGT",
+					"InstEQ",
+					"InstMOD",
+					"InstFDIV",
+					"InstDIV",
+					"InstMUL",
+					"InstSUB",
+					"ADDD",
+					"InstADD",
+					"InstSEL",
+					"InstRAP",
+					"InstDUM",
+					"InstRET",
+					"InstAP",
+					"InstJOIN",
+					"InstLD",
+					"InstLDC",
+					"InstNIL",
+					"InstJ",
+					"t5",
+					"t4",
+					"~~~",
+					"`d'",
+					"`c'",
+					"`b'",
+					"`a'",
+					"verb",
+					"Empty:",
+					"override protected",
+					"contain",
+					"data type",
+					"whileloop",
+					"selectlike",
+					"like",
+					"	",
+					"\\t",
+					"	",
+					"responsiveness",
+					"grammar",
+					"\\linewidth",
+					"line",
+					"MeteorCode",
+					"-",
+					"}\n",
+					"meteorcode.io",
+					"meteorcode.model",
+					"logical",
+					"Logical",
+					"Jar",
+					"jar",
+					"Jar"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"citeauthor",
+					"subtraction",
+					"     // ---- Unsigned int multiplication ----\n            let mut state = State {\n                stack: list!(AtomCell(UInt(2)), AtomCell(UInt(3))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(UInt(6))));\n\n            // ---- Signed int multiplication----\n            state = State {\n                stack: list!(AtomCell(SInt(-2)), AtomCell(SInt(-3))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(SInt(-6))));\n\n            // ---- Float-float multiplication ----\n            state = State {\n                stack: list!(AtomCell(Float(1.5)), AtomCell(Float(2))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(Float(3.0))));\n\n            // ---- Float-int type lifting multiplication ----\n            state = State {\n                stack: list!(AtomCell(Float(1.5)), AtomCell(SInt(2))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(Float(3.0))));\n\n            state = State {\n                stack: list!(AtomCell(Float(3.5)), AtomCell(UInt(2))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(Float(7.0))));\n        }",
+					"SUB",
+					"Inst",
+					"CONS",
+					"CDR",
+					"CAR",
+					"ATOM",
+					"LT",
+					"GT",
+					"EQ",
+					"MOD",
+					"FDIV",
+					"DIV",
+					"MUL",
+					"SUM",
+					"ADD",
+					"ADDD",
+					"SEL",
+					"RAP",
+					"DUM",
+					"RET",
+					"AP",
+					"JOIN",
+					"LD",
+					"LDC",
+					"NIL",
+					"&",
+					"\\lit{d}",
+					"\\lit{c}",
+					"\\lit{b}",
+					"\\lit{a}",
+					"",
+					"include",
+					"incldude",
+					"data structure",
+					"sorting",
+					"orderby",
+					"limit",
+					",",
+					"\\columnwidth",
+					"column",
+					"_",
+					"meteorcode.pathway.io",
+					"meteorcode.pathway.model",
+					"virtual",
+					"Virtual",
+					"Zip",
+					"zip",
+					"Zip"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 30.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 199.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 92.0
+			},
+			"output.markdown":
+			{
+				"height": 110.0
+			},
+			"output.sbt":
+			{
+				"height": 0.0
+			},
+			"output.sbt_error":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"School/school.sublime-project"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 323.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1276.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Atom",
+						"AtomCell"
+					],
+					[
+						"Iterator",
+						"IteratorExt"
+					],
+					[
+						"SVM",
+						"SVMInstruction"
+					],
+					[
+						"a",
+						"var_a"
+					],
+					[
+						"time",
+						"time_extract"
+					],
+					[
+						"qty.",
+						"qty.demand"
+					],
+					[
+						"for",
+						"for_selectlike"
+					],
+					[
+						"Memory",
+						"MemoryBenchmark"
+					],
+					[
+						"select",
+						"selectlike"
+					],
+					[
+						"reporter",
+						"Reporter"
+					],
+					[
+						"REse",
+						"ResearchBenchmark"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"rancher",
+						"rancher-after"
+					],
+					[
+						"meat",
+						"meatpotato"
+					],
+					[
+						"variable",
+						"variableDecl"
+					],
+					[
+						"next",
+						"next_char"
+					],
+					[
+						"coord",
+						"coord_flip"
+					],
+					[
+						"type",
+						"TYPE_LITERALS"
+					],
+					[
+						"q_",
+						"q_char_sequence"
+					],
+					[
+						"q",
+						"q-char"
+					],
+					[
+						"q-char",
+						"q-char-sequence"
+					],
+					[
+						"s_char",
+						"s_char_sequence"
+					],
+					[
+						"char",
+						"c_char_sequence"
+					],
+					[
+						"c_char",
+						"c_char_sequence"
+					],
+					[
+						"hexa",
+						"hexadecimal_escape_sequence"
+					],
+					[
+						"oct",
+						"octal_escape_sequence"
+					],
+					[
+						"hex",
+						"hexadecimal_digit"
+					],
+					[
+						"hexadecimal_",
+						"hexadecimal_fractional_constant"
+					],
+					[
+						"float",
+						"floating_suffix"
+					],
+					[
+						"ex",
+						"exponent_part"
+					],
+					[
+						"hexade",
+						"hexadecimal_digit"
+					],
+					[
+						"digit",
+						"digit_sequence"
+					],
+					[
+						"integ",
+						"integer_suffix"
+					],
+					[
+						"hexadec",
+						"hexadecimal_constant"
+					],
+					[
+						"octal",
+						"octal_digit"
+					],
+					[
+						"unsi",
+						"unsigned_suffix"
+					],
+					[
+						"uns",
+						"unsigned_suffix"
+					],
+					[
+						"long_",
+						"long_long_suffix"
+					],
+					[
+						"blooms",
+						"blooms"
+					],
+					[
+						"packages",
+						"packages"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "2015S/CMPSC580/assignment14/Mod1StudentLightningTalk-weismanm.tex",
+					"settings":
+					{
+						"buffer_size": 7921,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "2015S/CMPSC580/assignment13/Assignment13.tex",
+					"settings":
+					{
+						"buffer_size": 23913,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 239.0,
+				"selected_items":
+				[
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						" git push",
+						"Git: Push"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Commit"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"git amen",
+						"Git: Amend Commit"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"preview in",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"git ame",
+						"Git: Amend Commit"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						" git com",
+						"Git: Commit"
+					],
+					[
+						"git commit ",
+						"Git: Amend Commit"
+					],
+					[
+						"git add ",
+						"Git: Add..."
+					],
+					[
+						"git pusg",
+						"Git: Push Tags"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"git p",
+						"Git: Pull"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: Install Package"
+					],
+					[
+						"gitignored",
+						"Git: Update Project Ignored Files"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"repl r",
+						"SublimeREPL: R"
+					],
+					[
+						"latextools",
+						"LaTeXTools: Reconfigure and migrate settings"
+					],
+					[
+						"build",
+						"Build: Build"
+					],
+					[
+						"latex",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"replcloj",
+						"SublimeREPL: Clojure"
+					],
+					[
+						"g tiadd",
+						"Git: Add Current File"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"repl",
+						"SublimeREPL: Ruby"
+					],
+					[
+						"rep",
+						"SublimeREPL: R"
+					],
+					[
+						"r",
+						"SublimeREPL: R"
+					],
+					[
+						" git commit",
+						"Git: Commit"
+					],
+					[
+						"preivew",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"packge control",
+						"Package Control: Install Package"
+					],
+					[
+						"python",
+						"SublimeREPL: Python"
+					],
+					[
+						"scala",
+						"SublimeREPL: Scala"
+					],
+					[
+						"markdown",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"pyth",
+						"SublimeREPL: Python"
+					],
+					[
+						"repl hask",
+						"SublimeREPL: Haskell"
+					],
+					[
+						"pyt",
+						"SublimeREPL: Python"
+					],
+					[
+						"prev",
+						"Preview Graphviz Snippet"
+					],
+					[
+						"pre",
+						"Preview Graphviz Snippet"
+					],
+					[
+						"previ",
+						"Preview Graphviz Snippet"
+					],
+					[
+						"sublimerepl ipy",
+						"SublimeREPL: Python - IPython"
+					],
+					[
+						"loadf",
+						"SublimeREPL: Load current file"
+					],
+					[
+						"gfm",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"git fet",
+						"Git: Fetch"
+					],
+					[
+						"git commt",
+						"Git: Commit"
+					],
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"package control",
+						"Package Control: Add Repository"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"glue",
+						"Glue - Launch"
+					],
+					[
+						"gl",
+						"Glue - Launch"
+					],
+					[
+						"re",
+						"SublimeREPL: Elixir"
+					],
+					[
+						"sublimerepl",
+						"SublimeREPL: Python - IPython"
+					],
+					[
+						"linter create",
+						"SublimeLinter: Create Linter Plugin"
+					],
+					[
+						"lint",
+						"SublimeLinter: Choose Mark Style"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"lint ",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"load",
+						"SublimeREPL: Load current file"
+					],
+					[
+						"load file",
+						"Preferences: LoadFileToRepl Settings"
+					],
+					[
+						"subl",
+						"SublimeREPL: Scala"
+					],
+					[
+						"quan",
+						"Go to QuantifiedDev Dashboard"
+					],
+					[
+						"markd",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"repl sca",
+						"SublimeREPL: Scala"
+					],
+					[
+						"r-b",
+						"R-Box Application"
+					],
+					[
+						"rb",
+						"R-Box Application"
+					],
+					[
+						"view",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"late",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"pdf",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"prevei",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"packag",
+						"Package Control: Install Package"
+					],
+					[
+						"subcl",
+						"Subclim: Request completions"
+					],
+					[
+						"subclim",
+						"Subclim: Request completions"
+					],
+					[
+						"set ecl",
+						"Subclim: Set Eclim executable path"
+					]
+				],
+				"width": 489.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					" print(view.syntax_name(view.sel()[0].begin()))",
+					"print(view.syntax_name(view.sel()[0].begin()))",
+					" print(view.syntax_name(view.sel()[0].begin()))",
+					"print (view.syntax_name(view.sel()[0].b))",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/hawk/Documents/School",
+				"/Users/hawk/Documents/School/2013S",
+				"/Users/hawk/Documents/School/2015S",
+				"/Users/hawk/Documents/School/2015S/CMPSC580",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment13",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment14",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5",
+				"/Users/hawk/Documents/School/tex-assets"
+			],
+			"file_history":
+			[
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment13/Assignment13.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment14/Mod1LightningTalk-weismanm.pdf",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment14",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/cell.rs",
+				"/Users/hawk/Development/seax/seax_svm/src/lib.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Assignment12.bib",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Assignment12.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Precis.tex",
+				"/Users/hawk/conf",
+				"/Users/hawk/.zshrc",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-lab3/jobs.md",
+				"/Users/hawk/Library/texmf/tex/latex/assets/cs-pre.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Precis.bib",
+				"/Users/hawk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/hawk/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+				"/Users/hawk/.tmux.conf",
+				"/Users/hawk/~tmux.conf",
+				"/Users/hawk/Development/seax/seax_svm/src/liblib.rlib",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/slist.rs",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/state.rs",
+				"/Users/hawk/Development/seax/seax_svm/src/svm",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/slist/mod.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/cs580s2015-share/slides-template/simple/SampleSlides.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4/LightningTalk.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4/WFCSPrecis.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/Summaries.pdf",
+				"/Users/hawk/Development/seax/seax_svm/src/slist.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4/FiveIdeas.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4",
+				"/Users/hawk/Development/seax/Cargo.toml",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/CMPSC383 Day 6.md",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/CoverLetter-Twitter.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/InternshipList.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/CoverLetter.tex",
+				"/Users/hawk/Documents/School/school.sublime-project",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/StupidModel.rs/styles/stupidmodel.agents.Predator.style_1.xml",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/StupidModel.rs/styles/stupidmodel.agents.Predator.style_0.xml",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/StupidModel.rs/styles/stupidmodel.agents.Predator.style_0.xml",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/src/main/scala/edu/allegheny/SerializationBenchmarks/GeneralTree.java",
+				"/Users/hawk/Documents/School/2013F/CS290/cs290f2013-lab4-team3/src/edu/allegheny/datagenTest/DatagenTests.java",
+				"/Users/hawk/Documents/School/2013F/CS290/cs290f2013-lab4-team3/src/edu/allegheny/datagenTest/DatagenTest.java",
+				"/Users/hawk/Documents/School/2013F/CS290/cs290f2013-lab5-team4/ReleasePlanner/doc/ActivityGraph.dot",
+				"/Users/hawk/Documents/School/2013F/CS210/array",
+				"/Users/hawk/Documents/School/2013S/CS112/QueueLab/src/serialized-form.html",
+				"/Users/hawk/Development/seax/README.md",
+				"/Users/hawk/Development/deebee/src/main/scala/deebee/storage/RelationActor.scala",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015/lectures/week1/StupidModel/repast-licenses/proactive-license.txt",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/PaperReviews.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/CanonicalElements.md",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/PaperReviews.bib",
+				"/Users/hawk/Development/carrden/src/main/scala/ScalatraBootstrap.scala",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420f2014/labs/lab4/WorkingCodeGenerator_mips/list.h",
+				"/Users/hawk/Development/seax/LICENSE",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/PaperReviews.pdf",
+				"/Users/hawk/Development/seax/seax-svm/src/lib.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment6/LaTeX Document.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment6/Beamer Presentation.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/Week3",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/cs580s2015-share/terminal.glue",
+				"/Users/hawk/Development/hawkw.github.io/website.sublime-project",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/src/stupidmodel/agents/Predator.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/src/stupidmodel/agents/Predator.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/Report.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/src/stupidmodel/agents/Bug.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/src/stupidmodel/StupidModelContextBuilder.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/src/stupidmodel/agents/Bug.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/src/stupidmodel/StupidModelContextBuilder.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/.gitignore",
+				"/Users/hawk/Development/seax/seax-svm/src/slist.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/InterestStmt.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/PaperReview.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/CMPSC383 Day 3.md",
+				"/Users/hawk/Documents/sotu.c",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/Summaries.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/CMPSC383 Day 2.md",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week1/SurveyOfInterests.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week1/Trampoline.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week1/new.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2",
+				"/Users/hawk/Development/pathway/build.gradle",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/Notes/CMPSC383 Day 2.md",
+				"/Users/hawk/Development/deebee/.gitignore",
+				"/Users/hawk/Development/deebee/doc/cs420-final.blg",
+				"/Users/hawk/Development/deebee/doc/assets/final.bib",
+				"/Users/hawk/Development/decaf/function1.j",
+				"/Users/hawk/Development/decaf/for1.j",
+				"/Users/hawk/Development/decaf/function2",
+				"/Users/hawk/Development/pathway/src/main/java/com/meteorcode/pathway/io/ResourceManager.scala",
+				"/Users/hawk/Development/byol",
+				"/Users/hawk/Development/decaf/for4.j",
+				"/Users/hawk/Desktop/op8.j",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/finalExam/recur.s",
+				"/Users/hawk/Development/decaf/if5.j",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/.gitiGNORE",
+				"/Users/hawk/Development/decaf/op1.j",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 17.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/finalExam/420pre.tex",
+				"/Users/hawk/Development/decaf/src/test/resources/lab4-samples/rec.decaf",
+				"/Users/hawk/Development/decaf/src/test/resources/lab4-samples/class1.decaf",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/.gitignore",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/lab1/lab1.bib",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/Labs/decaf/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/Labs/decaf/build/tmp/scala/compilerAnalysis/compileScala.analysis",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/doc/assets/runs.sh-session",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/src/main/scala/edu/allegheny/SerializationBenchmarks/RandomTreeBuilder.java",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/.gradle/2.0/taskArtifacts/taskArtifacts.bin",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab4-team4/resources/iTrust.sql",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/terminal.glue",
+				"/Users/hawk/Development/deebee/build.sbt",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 30.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 29.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab8-team4/graph.r",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 28.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/Notes/CMPSC380 Day 22.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter14/Ch14.tex",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/Notes/CMPSC380 Day 21.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/Notes/CMPSC38- Day 22.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter14",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter19",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 17/ECON100 Day 29.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 27.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 17/ECON100 Day 28.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 26.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 25.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab8-team4/doc/assets/380pre.tex",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter9/Ch9.tex",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 23.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 24.md"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 94.0,
+				"where_history":
+				[
+					"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/Labs/decaf/src/test/resources/lab2-samples",
+					"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab3-team1/analysis/data/small",
+					"/Users/hawk/Development/pathway/src/com/meteorcode/",
+					"/Users/hawk/Development/pathway/src/com/meteorcode/pathway/io"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"AP",
+					"ap",
+					"citename",
+					"ested",
+					"ListCell",
+					"Float(2)",
+					"Float(2",
+					"multiplication",
+					"MUL",
+					"SVMInstruction",
+					"InstCONS",
+					"InstCDR",
+					"InstCAR",
+					"InstATOM",
+					"InstLT",
+					"InstGT",
+					"InstEQ",
+					"InstMOD",
+					"InstFDIV",
+					"InstDIV",
+					"InstMUL",
+					"InstSUB",
+					"ADDD",
+					"InstADD",
+					"InstSEL",
+					"InstRAP",
+					"InstDUM",
+					"InstRET",
+					"InstAP",
+					"InstJOIN",
+					"InstLD",
+					"InstLDC",
+					"InstNIL",
+					"InstJ",
+					"t5",
+					"t4",
+					"~~~",
+					"`d'",
+					"`c'",
+					"`b'",
+					"`a'",
+					"verb",
+					"Empty:",
+					"override protected",
+					"contain",
+					"data type",
+					"whileloop",
+					"selectlike",
+					"like",
+					"	",
+					"\\t",
+					"	",
+					"responsiveness",
+					"grammar",
+					"\\linewidth",
+					"line",
+					"MeteorCode",
+					"-",
+					"}\n",
+					"meteorcode.io",
+					"meteorcode.model",
+					"logical",
+					"Logical",
+					"Jar",
+					"jar",
+					"Jar"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"citeauthor",
+					"subtraction",
+					"     // ---- Unsigned int multiplication ----\n            let mut state = State {\n                stack: list!(AtomCell(UInt(2)), AtomCell(UInt(3))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(UInt(6))));\n\n            // ---- Signed int multiplication----\n            state = State {\n                stack: list!(AtomCell(SInt(-2)), AtomCell(SInt(-3))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(SInt(-6))));\n\n            // ---- Float-float multiplication ----\n            state = State {\n                stack: list!(AtomCell(Float(1.5)), AtomCell(Float(2))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(Float(3.0))));\n\n            // ---- Float-int type lifting multiplication ----\n            state = State {\n                stack: list!(AtomCell(Float(1.5)), AtomCell(SInt(2))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(Float(3.0))));\n\n            state = State {\n                stack: list!(AtomCell(Float(3.5)), AtomCell(UInt(2))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(Float(7.0))));\n        }",
+					"SUB",
+					"Inst",
+					"CONS",
+					"CDR",
+					"CAR",
+					"ATOM",
+					"LT",
+					"GT",
+					"EQ",
+					"MOD",
+					"FDIV",
+					"DIV",
+					"MUL",
+					"SUM",
+					"ADD",
+					"ADDD",
+					"SEL",
+					"RAP",
+					"DUM",
+					"RET",
+					"AP",
+					"JOIN",
+					"LD",
+					"LDC",
+					"NIL",
+					"&",
+					"\\lit{d}",
+					"\\lit{c}",
+					"\\lit{b}",
+					"\\lit{a}",
+					"",
+					"include",
+					"incldude",
+					"data structure",
+					"sorting",
+					"orderby",
+					"limit",
+					",",
+					"\\columnwidth",
+					"column",
+					"_",
+					"meteorcode.pathway.io",
+					"meteorcode.pathway.model",
+					"virtual",
+					"Virtual",
+					"Zip",
+					"zip",
+					"Zip"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "2015S/CMPSC580/assignment14/Mod1StudentLightningTalk-weismanm.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7921,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7181,
+										7181
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"function_name_status_row": 210,
+									"open_with_edit": true,
+									"syntax": "Packages/LaTeX/LaTeX Beamer.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2141.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "2015S/CMPSC580/assignment13/Assignment13.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23913,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1846,
+										1846
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"function_name_status_row": 38,
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6141.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 30.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 199.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 92.0
+			},
+			"output.markdown":
+			{
+				"height": 110.0
+			},
+			"output.sbt":
+			{
+				"height": 0.0
+			},
+			"output.sbt_error":
+			{
+				"height": 0.0
+			},
+			"position": "1 165 27 1276 1000 0 0 1680 1027 ",
+			"project": "school.sublime-project",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"School/school.sublime-project"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"fss_on_distraction_free": false,
+				"fss_on_full_screen": false
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 323.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 142,
+			"workspace_name": "/Users/hawk/Documents/School/school.sublime-workspace"
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Atom",
+						"AtomCell"
+					],
+					[
+						"Iterator",
+						"IteratorExt"
+					],
+					[
+						"SVM",
+						"SVMInstruction"
+					],
+					[
+						"a",
+						"var_a"
+					],
+					[
+						"time",
+						"time_extract"
+					],
+					[
+						"qty.",
+						"qty.demand"
+					],
+					[
+						"for",
+						"for_selectlike"
+					],
+					[
+						"Memory",
+						"MemoryBenchmark"
+					],
+					[
+						"select",
+						"selectlike"
+					],
+					[
+						"reporter",
+						"Reporter"
+					],
+					[
+						"REse",
+						"ResearchBenchmark"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"rancher",
+						"rancher-after"
+					],
+					[
+						"meat",
+						"meatpotato"
+					],
+					[
+						"variable",
+						"variableDecl"
+					],
+					[
+						"next",
+						"next_char"
+					],
+					[
+						"coord",
+						"coord_flip"
+					],
+					[
+						"type",
+						"TYPE_LITERALS"
+					],
+					[
+						"q_",
+						"q_char_sequence"
+					],
+					[
+						"q",
+						"q-char"
+					],
+					[
+						"q-char",
+						"q-char-sequence"
+					],
+					[
+						"s_char",
+						"s_char_sequence"
+					],
+					[
+						"char",
+						"c_char_sequence"
+					],
+					[
+						"c_char",
+						"c_char_sequence"
+					],
+					[
+						"hexa",
+						"hexadecimal_escape_sequence"
+					],
+					[
+						"oct",
+						"octal_escape_sequence"
+					],
+					[
+						"hex",
+						"hexadecimal_digit"
+					],
+					[
+						"hexadecimal_",
+						"hexadecimal_fractional_constant"
+					],
+					[
+						"float",
+						"floating_suffix"
+					],
+					[
+						"ex",
+						"exponent_part"
+					],
+					[
+						"hexade",
+						"hexadecimal_digit"
+					],
+					[
+						"digit",
+						"digit_sequence"
+					],
+					[
+						"integ",
+						"integer_suffix"
+					],
+					[
+						"hexadec",
+						"hexadecimal_constant"
+					],
+					[
+						"octal",
+						"octal_digit"
+					],
+					[
+						"unsi",
+						"unsigned_suffix"
+					],
+					[
+						"uns",
+						"unsigned_suffix"
+					],
+					[
+						"long_",
+						"long_long_suffix"
+					],
+					[
+						"blooms",
+						"blooms"
+					],
+					[
+						"packages",
+						"packages"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/hawk/Development/bigyll/_layouts/big.html",
+					"settings":
+					{
+						"buffer_size": 3793,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/hawk/Development/bigyll/_drafts",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/hawk/Development/bigyll/_drafts/example.markdown",
+					"settings":
+					{
+						"buffer_size": 191,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "{% for post in site.posts %} * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})\n{% endfor %}",
+					"file": "/Users/hawk/Development/bigyll/index.md",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 121,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/hawk/Development/bigyll/README.md",
+					"settings":
+					{
+						"buffer_size": 665,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "# Permalinks\npermalink:        pretty\nrelative_permalinks: true\n\n# Setup\ntitle:            Hawk Weisman\nurl:              https://hawkweisman.me\npaginate:         1\nbaseurl:          /\nauthor:\n  name:           Hawk Weisman\n  url:            https://hawkweisman.me\n  email:          hawk@hawkweisman.me\n\n\nkramdown:\n  input: GFM",
+					"file": "/Users/hawk/Development/bigyll/_config.yml",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 327,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/hawk/Development/bigyll/_site/2015/02/19/example.html",
+					"settings":
+					{
+						"buffer_size": 3902,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 315.0,
+				"selected_items":
+				[
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						" git push",
+						"Git: Push"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Commit"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"git amen",
+						"Git: Amend Commit"
+					],
+					[
+						"preview in",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"git ame",
+						"Git: Amend Commit"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						" git com",
+						"Git: Commit"
+					],
+					[
+						"git commit ",
+						"Git: Amend Commit"
+					],
+					[
+						"git add ",
+						"Git: Add..."
+					],
+					[
+						"git pusg",
+						"Git: Push Tags"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"git p",
+						"Git: Pull"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: Install Package"
+					],
+					[
+						"gitignored",
+						"Git: Update Project Ignored Files"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"repl r",
+						"SublimeREPL: R"
+					],
+					[
+						"latextools",
+						"LaTeXTools: Reconfigure and migrate settings"
+					],
+					[
+						"build",
+						"Build: Build"
+					],
+					[
+						"latex",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"replcloj",
+						"SublimeREPL: Clojure"
+					],
+					[
+						"g tiadd",
+						"Git: Add Current File"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"repl",
+						"SublimeREPL: Ruby"
+					],
+					[
+						"rep",
+						"SublimeREPL: R"
+					],
+					[
+						"r",
+						"SublimeREPL: R"
+					],
+					[
+						" git commit",
+						"Git: Commit"
+					],
+					[
+						"preivew",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"packge control",
+						"Package Control: Install Package"
+					],
+					[
+						"python",
+						"SublimeREPL: Python"
+					],
+					[
+						"scala",
+						"SublimeREPL: Scala"
+					],
+					[
+						"markdown",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"pyth",
+						"SublimeREPL: Python"
+					],
+					[
+						"repl hask",
+						"SublimeREPL: Haskell"
+					],
+					[
+						"pyt",
+						"SublimeREPL: Python"
+					],
+					[
+						"prev",
+						"Preview Graphviz Snippet"
+					],
+					[
+						"pre",
+						"Preview Graphviz Snippet"
+					],
+					[
+						"previ",
+						"Preview Graphviz Snippet"
+					],
+					[
+						"sublimerepl ipy",
+						"SublimeREPL: Python - IPython"
+					],
+					[
+						"loadf",
+						"SublimeREPL: Load current file"
+					],
+					[
+						"gfm",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"git fet",
+						"Git: Fetch"
+					],
+					[
+						"git commt",
+						"Git: Commit"
+					],
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"package control",
+						"Package Control: Add Repository"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"glue",
+						"Glue - Launch"
+					],
+					[
+						"gl",
+						"Glue - Launch"
+					],
+					[
+						"re",
+						"SublimeREPL: Elixir"
+					],
+					[
+						"sublimerepl",
+						"SublimeREPL: Python - IPython"
+					],
+					[
+						"linter create",
+						"SublimeLinter: Create Linter Plugin"
+					],
+					[
+						"lint",
+						"SublimeLinter: Choose Mark Style"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"lint ",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"load",
+						"SublimeREPL: Load current file"
+					],
+					[
+						"load file",
+						"Preferences: LoadFileToRepl Settings"
+					],
+					[
+						"subl",
+						"SublimeREPL: Scala"
+					],
+					[
+						"quan",
+						"Go to QuantifiedDev Dashboard"
+					],
+					[
+						"markd",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"repl sca",
+						"SublimeREPL: Scala"
+					],
+					[
+						"r-b",
+						"R-Box Application"
+					],
+					[
+						"rb",
+						"R-Box Application"
+					],
+					[
+						"view",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"late",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"pdf",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"prevei",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"packag",
+						"Package Control: Install Package"
+					],
+					[
+						"subcl",
+						"Subclim: Request completions"
+					],
+					[
+						"subclim",
+						"Subclim: Request completions"
+					],
+					[
+						"set ecl",
+						"Subclim: Set Eclim executable path"
+					]
+				],
+				"width": 543.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					" print(view.syntax_name(view.sel()[0].begin()))",
+					"print(view.syntax_name(view.sel()[0].begin()))",
+					" print(view.syntax_name(view.sel()[0].begin()))",
+					"print (view.syntax_name(view.sel()[0].b))",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/hawk/Development/bigyll",
+				"/Users/hawk/Development/bigyll/_drafts",
+				"/Users/hawk/Development/bigyll/_layouts"
+			],
+			"file_history":
+			[
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment13/Assignment13.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment14/Mod1LightningTalk-weismanm.pdf",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment14",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/cell.rs",
+				"/Users/hawk/Development/seax/seax_svm/src/lib.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Assignment12.bib",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Assignment12.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Precis.tex",
+				"/Users/hawk/conf",
+				"/Users/hawk/.zshrc",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-lab3/jobs.md",
+				"/Users/hawk/Library/texmf/tex/latex/assets/cs-pre.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Precis.bib",
+				"/Users/hawk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/hawk/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+				"/Users/hawk/.tmux.conf",
+				"/Users/hawk/~tmux.conf",
+				"/Users/hawk/Development/seax/seax_svm/src/liblib.rlib",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/slist.rs",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/state.rs",
+				"/Users/hawk/Development/seax/seax_svm/src/svm",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/slist/mod.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/cs580s2015-share/slides-template/simple/SampleSlides.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4/LightningTalk.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4/WFCSPrecis.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/Summaries.pdf",
+				"/Users/hawk/Development/seax/seax_svm/src/slist.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4/FiveIdeas.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4",
+				"/Users/hawk/Development/seax/Cargo.toml",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/CMPSC383 Day 6.md",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/CoverLetter-Twitter.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/InternshipList.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/CoverLetter.tex",
+				"/Users/hawk/Documents/School/school.sublime-project",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/StupidModel.rs/styles/stupidmodel.agents.Predator.style_1.xml",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/StupidModel.rs/styles/stupidmodel.agents.Predator.style_0.xml",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/StupidModel.rs/styles/stupidmodel.agents.Predator.style_0.xml",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/src/main/scala/edu/allegheny/SerializationBenchmarks/GeneralTree.java",
+				"/Users/hawk/Documents/School/2013F/CS290/cs290f2013-lab4-team3/src/edu/allegheny/datagenTest/DatagenTests.java",
+				"/Users/hawk/Documents/School/2013F/CS290/cs290f2013-lab4-team3/src/edu/allegheny/datagenTest/DatagenTest.java",
+				"/Users/hawk/Documents/School/2013F/CS290/cs290f2013-lab5-team4/ReleasePlanner/doc/ActivityGraph.dot",
+				"/Users/hawk/Documents/School/2013F/CS210/array",
+				"/Users/hawk/Documents/School/2013S/CS112/QueueLab/src/serialized-form.html",
+				"/Users/hawk/Development/seax/README.md",
+				"/Users/hawk/Development/deebee/src/main/scala/deebee/storage/RelationActor.scala",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015/lectures/week1/StupidModel/repast-licenses/proactive-license.txt",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/PaperReviews.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/CanonicalElements.md",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/PaperReviews.bib",
+				"/Users/hawk/Development/carrden/src/main/scala/ScalatraBootstrap.scala",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420f2014/labs/lab4/WorkingCodeGenerator_mips/list.h",
+				"/Users/hawk/Development/seax/LICENSE",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/PaperReviews.pdf",
+				"/Users/hawk/Development/seax/seax-svm/src/lib.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment6/LaTeX Document.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment6/Beamer Presentation.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/Week3",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/cs580s2015-share/terminal.glue",
+				"/Users/hawk/Development/hawkw.github.io/website.sublime-project",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/src/stupidmodel/agents/Predator.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/src/stupidmodel/agents/Predator.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/Report.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/src/stupidmodel/agents/Bug.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/src/stupidmodel/StupidModelContextBuilder.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/src/stupidmodel/agents/Bug.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/src/stupidmodel/StupidModelContextBuilder.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/.gitignore",
+				"/Users/hawk/Development/seax/seax-svm/src/slist.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/InterestStmt.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/PaperReview.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/CMPSC383 Day 3.md",
+				"/Users/hawk/Documents/sotu.c",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/Summaries.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/CMPSC383 Day 2.md",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week1/SurveyOfInterests.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week1/Trampoline.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week1/new.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2",
+				"/Users/hawk/Development/pathway/build.gradle",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/Notes/CMPSC383 Day 2.md",
+				"/Users/hawk/Development/deebee/.gitignore",
+				"/Users/hawk/Development/deebee/doc/cs420-final.blg",
+				"/Users/hawk/Development/deebee/doc/assets/final.bib",
+				"/Users/hawk/Development/decaf/function1.j",
+				"/Users/hawk/Development/decaf/for1.j",
+				"/Users/hawk/Development/decaf/function2",
+				"/Users/hawk/Development/pathway/src/main/java/com/meteorcode/pathway/io/ResourceManager.scala",
+				"/Users/hawk/Development/byol",
+				"/Users/hawk/Development/decaf/for4.j",
+				"/Users/hawk/Desktop/op8.j",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/finalExam/recur.s",
+				"/Users/hawk/Development/decaf/if5.j",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/.gitiGNORE",
+				"/Users/hawk/Development/decaf/op1.j",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 17.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/finalExam/420pre.tex",
+				"/Users/hawk/Development/decaf/src/test/resources/lab4-samples/rec.decaf",
+				"/Users/hawk/Development/decaf/src/test/resources/lab4-samples/class1.decaf",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/.gitignore",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/lab1/lab1.bib",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/Labs/decaf/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/Labs/decaf/build/tmp/scala/compilerAnalysis/compileScala.analysis",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/doc/assets/runs.sh-session",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/src/main/scala/edu/allegheny/SerializationBenchmarks/RandomTreeBuilder.java",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/.gradle/2.0/taskArtifacts/taskArtifacts.bin",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab4-team4/resources/iTrust.sql",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/terminal.glue",
+				"/Users/hawk/Development/deebee/build.sbt",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 30.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 29.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab8-team4/graph.r",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 28.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/Notes/CMPSC380 Day 22.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter14/Ch14.tex",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/Notes/CMPSC380 Day 21.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/Notes/CMPSC38- Day 22.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter14",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter19",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 17/ECON100 Day 29.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 27.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 17/ECON100 Day 28.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 26.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 25.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab8-team4/doc/assets/380pre.tex",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter9/Ch9.tex",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 23.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 24.md"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 94.0,
+				"where_history":
+				[
+					"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/Labs/decaf/src/test/resources/lab2-samples",
+					"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab3-team1/analysis/data/small",
+					"/Users/hawk/Development/pathway/src/com/meteorcode/",
+					"/Users/hawk/Development/pathway/src/com/meteorcode/pathway/io"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"AP",
+					"ap",
+					"citename",
+					"ested",
+					"ListCell",
+					"Float(2)",
+					"Float(2",
+					"multiplication",
+					"MUL",
+					"SVMInstruction",
+					"InstCONS",
+					"InstCDR",
+					"InstCAR",
+					"InstATOM",
+					"InstLT",
+					"InstGT",
+					"InstEQ",
+					"InstMOD",
+					"InstFDIV",
+					"InstDIV",
+					"InstMUL",
+					"InstSUB",
+					"ADDD",
+					"InstADD",
+					"InstSEL",
+					"InstRAP",
+					"InstDUM",
+					"InstRET",
+					"InstAP",
+					"InstJOIN",
+					"InstLD",
+					"InstLDC",
+					"InstNIL",
+					"InstJ",
+					"t5",
+					"t4",
+					"~~~",
+					"`d'",
+					"`c'",
+					"`b'",
+					"`a'",
+					"verb",
+					"Empty:",
+					"override protected",
+					"contain",
+					"data type",
+					"whileloop",
+					"selectlike",
+					"like",
+					"	",
+					"\\t",
+					"	",
+					"responsiveness",
+					"grammar",
+					"\\linewidth",
+					"line",
+					"MeteorCode",
+					"-",
+					"}\n",
+					"meteorcode.io",
+					"meteorcode.model",
+					"logical",
+					"Logical",
+					"Jar",
+					"jar",
+					"Jar"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"citeauthor",
+					"subtraction",
+					"     // ---- Unsigned int multiplication ----\n            let mut state = State {\n                stack: list!(AtomCell(UInt(2)), AtomCell(UInt(3))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(UInt(6))));\n\n            // ---- Signed int multiplication----\n            state = State {\n                stack: list!(AtomCell(SInt(-2)), AtomCell(SInt(-3))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(SInt(-6))));\n\n            // ---- Float-float multiplication ----\n            state = State {\n                stack: list!(AtomCell(Float(1.5)), AtomCell(Float(2))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(Float(3.0))));\n\n            // ---- Float-int type lifting multiplication ----\n            state = State {\n                stack: list!(AtomCell(Float(1.5)), AtomCell(SInt(2))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(Float(3.0))));\n\n            state = State {\n                stack: list!(AtomCell(Float(3.5)), AtomCell(UInt(2))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(Float(7.0))));\n        }",
+					"SUB",
+					"Inst",
+					"CONS",
+					"CDR",
+					"CAR",
+					"ATOM",
+					"LT",
+					"GT",
+					"EQ",
+					"MOD",
+					"FDIV",
+					"DIV",
+					"MUL",
+					"SUM",
+					"ADD",
+					"ADDD",
+					"SEL",
+					"RAP",
+					"DUM",
+					"RET",
+					"AP",
+					"JOIN",
+					"LD",
+					"LDC",
+					"NIL",
+					"&",
+					"\\lit{d}",
+					"\\lit{c}",
+					"\\lit{b}",
+					"\\lit{a}",
+					"",
+					"include",
+					"incldude",
+					"data structure",
+					"sorting",
+					"orderby",
+					"limit",
+					",",
+					"\\columnwidth",
+					"column",
+					"_",
+					"meteorcode.pathway.io",
+					"meteorcode.pathway.model",
+					"virtual",
+					"Virtual",
+					"Zip",
+					"zip",
+					"Zip"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/hawk/Development/bigyll"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/hawk/Development/bigyll/_layouts/big.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3793,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										3793
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"function_name_status_row": 0,
+									"open_with_edit": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/hawk/Development/bigyll/_drafts",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"function_name_status_row": 0,
+									"open_with_edit": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/hawk/Development/bigyll/_drafts/example.markdown",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 191,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										136,
+										136
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"function_name_status_row": 7,
+									"open_with_edit": true,
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/hawk/Development/bigyll/index.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 121,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										121,
+										121
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"function_name_status_row": 1,
+									"open_with_edit": true,
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/hawk/Development/bigyll/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 665,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										665,
+										665
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"function_name_status_row": 15,
+									"parser": "github",
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+									"target": "disk"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/hawk/Development/bigyll/_config.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 327,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										327,
+										327
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"function_name_status_row": 16,
+									"open_with_edit": true,
+									"syntax": "Packages/YAML/YAML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/hawk/Development/bigyll/_site/2015/02/19/example.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3902,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3240,
+										178
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"function_name_status_row": 6,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 30.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 199.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 92.0
+			},
+			"output.markdown":
+			{
+				"height": 110.0
+			},
+			"output.sbt":
+			{
+				"height": 0.0
+			},
+			"output.sbt_error":
+			{
+				"height": 0.0
+			},
+			"position": "0 200 24 1276 1000 0 0 1680 1027 ",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"School/school.sublime-project"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 323.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 165,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Atom",
+						"AtomCell"
+					],
+					[
+						"Iterator",
+						"IteratorExt"
+					],
+					[
+						"SVM",
+						"SVMInstruction"
+					],
+					[
+						"a",
+						"var_a"
+					],
+					[
+						"time",
+						"time_extract"
+					],
+					[
+						"qty.",
+						"qty.demand"
+					],
+					[
+						"for",
+						"for_selectlike"
+					],
+					[
+						"Memory",
+						"MemoryBenchmark"
+					],
+					[
+						"select",
+						"selectlike"
+					],
+					[
+						"reporter",
+						"Reporter"
+					],
+					[
+						"REse",
+						"ResearchBenchmark"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"rancher",
+						"rancher-after"
+					],
+					[
+						"meat",
+						"meatpotato"
+					],
+					[
+						"variable",
+						"variableDecl"
+					],
+					[
+						"next",
+						"next_char"
+					],
+					[
+						"coord",
+						"coord_flip"
+					],
+					[
+						"type",
+						"TYPE_LITERALS"
+					],
+					[
+						"q_",
+						"q_char_sequence"
+					],
+					[
+						"q",
+						"q-char"
+					],
+					[
+						"q-char",
+						"q-char-sequence"
+					],
+					[
+						"s_char",
+						"s_char_sequence"
+					],
+					[
+						"char",
+						"c_char_sequence"
+					],
+					[
+						"c_char",
+						"c_char_sequence"
+					],
+					[
+						"hexa",
+						"hexadecimal_escape_sequence"
+					],
+					[
+						"oct",
+						"octal_escape_sequence"
+					],
+					[
+						"hex",
+						"hexadecimal_digit"
+					],
+					[
+						"hexadecimal_",
+						"hexadecimal_fractional_constant"
+					],
+					[
+						"float",
+						"floating_suffix"
+					],
+					[
+						"ex",
+						"exponent_part"
+					],
+					[
+						"hexade",
+						"hexadecimal_digit"
+					],
+					[
+						"digit",
+						"digit_sequence"
+					],
+					[
+						"integ",
+						"integer_suffix"
+					],
+					[
+						"hexadec",
+						"hexadecimal_constant"
+					],
+					[
+						"octal",
+						"octal_digit"
+					],
+					[
+						"unsi",
+						"unsigned_suffix"
+					],
+					[
+						"uns",
+						"unsigned_suffix"
+					],
+					[
+						"long_",
+						"long_long_suffix"
+					],
+					[
+						"blooms",
+						"blooms"
+					],
+					[
+						"packages",
+						"packages"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/hawk/Development/hawkw.github.io/slides/FuncProgJVM.md",
+					"settings":
+					{
+						"buffer_size": 995,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/hawk/Development/hawkw.github.io/res.cls",
+					"settings":
+					{
+						"buffer_size": 25065,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/hawk/Development/hawkw.github.io/slides/index.md",
+					"settings":
+					{
+						"buffer_size": 523,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 239.0,
+				"selected_items":
+				[
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						" git push",
+						"Git: Push"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Commit"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"git amen",
+						"Git: Amend Commit"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"preview in",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"git ame",
+						"Git: Amend Commit"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						" git com",
+						"Git: Commit"
+					],
+					[
+						"git commit ",
+						"Git: Amend Commit"
+					],
+					[
+						"git add ",
+						"Git: Add..."
+					],
+					[
+						"git pusg",
+						"Git: Push Tags"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"git p",
+						"Git: Pull"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: Install Package"
+					],
+					[
+						"gitignored",
+						"Git: Update Project Ignored Files"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"repl r",
+						"SublimeREPL: R"
+					],
+					[
+						"latextools",
+						"LaTeXTools: Reconfigure and migrate settings"
+					],
+					[
+						"build",
+						"Build: Build"
+					],
+					[
+						"latex",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"replcloj",
+						"SublimeREPL: Clojure"
+					],
+					[
+						"g tiadd",
+						"Git: Add Current File"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"repl",
+						"SublimeREPL: Ruby"
+					],
+					[
+						"rep",
+						"SublimeREPL: R"
+					],
+					[
+						"r",
+						"SublimeREPL: R"
+					],
+					[
+						" git commit",
+						"Git: Commit"
+					],
+					[
+						"preivew",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"packge control",
+						"Package Control: Install Package"
+					],
+					[
+						"python",
+						"SublimeREPL: Python"
+					],
+					[
+						"scala",
+						"SublimeREPL: Scala"
+					],
+					[
+						"markdown",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"pyth",
+						"SublimeREPL: Python"
+					],
+					[
+						"repl hask",
+						"SublimeREPL: Haskell"
+					],
+					[
+						"pyt",
+						"SublimeREPL: Python"
+					],
+					[
+						"prev",
+						"Preview Graphviz Snippet"
+					],
+					[
+						"pre",
+						"Preview Graphviz Snippet"
+					],
+					[
+						"previ",
+						"Preview Graphviz Snippet"
+					],
+					[
+						"sublimerepl ipy",
+						"SublimeREPL: Python - IPython"
+					],
+					[
+						"loadf",
+						"SublimeREPL: Load current file"
+					],
+					[
+						"gfm",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"git fet",
+						"Git: Fetch"
+					],
+					[
+						"git commt",
+						"Git: Commit"
+					],
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"package control",
+						"Package Control: Add Repository"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"glue",
+						"Glue - Launch"
+					],
+					[
+						"gl",
+						"Glue - Launch"
+					],
+					[
+						"re",
+						"SublimeREPL: Elixir"
+					],
+					[
+						"sublimerepl",
+						"SublimeREPL: Python - IPython"
+					],
+					[
+						"linter create",
+						"SublimeLinter: Create Linter Plugin"
+					],
+					[
+						"lint",
+						"SublimeLinter: Choose Mark Style"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"lint ",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"load",
+						"SublimeREPL: Load current file"
+					],
+					[
+						"load file",
+						"Preferences: LoadFileToRepl Settings"
+					],
+					[
+						"subl",
+						"SublimeREPL: Scala"
+					],
+					[
+						"quan",
+						"Go to QuantifiedDev Dashboard"
+					],
+					[
+						"markd",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"repl sca",
+						"SublimeREPL: Scala"
+					],
+					[
+						"r-b",
+						"R-Box Application"
+					],
+					[
+						"rb",
+						"R-Box Application"
+					],
+					[
+						"view",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"late",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"pdf",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"prevei",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"packag",
+						"Package Control: Install Package"
+					],
+					[
+						"subcl",
+						"Subclim: Request completions"
+					],
+					[
+						"subclim",
+						"Subclim: Request completions"
+					],
+					[
+						"set ecl",
+						"Subclim: Set Eclim executable path"
+					]
+				],
+				"width": 543.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					" print(view.syntax_name(view.sel()[0].begin()))",
+					"print(view.syntax_name(view.sel()[0].begin()))",
+					" print(view.syntax_name(view.sel()[0].begin()))",
+					"print (view.syntax_name(view.sel()[0].b))",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/hawk/Development/hawkw.github.io",
+				"/Users/hawk/Development/hawkw.github.io/_layouts",
+				"/Users/hawk/Development/hawkw.github.io/notebook",
+				"/Users/hawk/Development/hawkw.github.io/notebook/_drafts",
+				"/Users/hawk/Development/hawkw.github.io/slides",
+				"/Users/hawk/Development/hawkw.github.io/slides/big"
+			],
+			"file_history":
+			[
+				"/Users/hawk/Development/hawkw.github.io/_layouts/big.html",
+				"/Users/hawk/Development/hawkw.github.io/slides/FuncProgJVM.markdown",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment13/Assignment13.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment14/Mod1LightningTalk-weismanm.pdf",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment14",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/cell.rs",
+				"/Users/hawk/Development/seax/seax_svm/src/lib.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Assignment12.bib",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Assignment12.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Precis.tex",
+				"/Users/hawk/conf",
+				"/Users/hawk/.zshrc",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-lab3/jobs.md",
+				"/Users/hawk/Library/texmf/tex/latex/assets/cs-pre.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week5/Precis.bib",
+				"/Users/hawk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/hawk/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+				"/Users/hawk/.tmux.conf",
+				"/Users/hawk/~tmux.conf",
+				"/Users/hawk/Development/seax/seax_svm/src/liblib.rlib",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/slist.rs",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/state.rs",
+				"/Users/hawk/Development/seax/seax_svm/src/svm",
+				"/Users/hawk/Development/seax/seax_svm/src/svm/slist/mod.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/cs580s2015-share/slides-template/simple/SampleSlides.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4/LightningTalk.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4/WFCSPrecis.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/Summaries.pdf",
+				"/Users/hawk/Development/seax/seax_svm/src/slist.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4/FiveIdeas.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week4",
+				"/Users/hawk/Development/seax/Cargo.toml",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/CMPSC383 Day 6.md",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/CoverLetter-Twitter.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/InternshipList.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/CoverLetter.tex",
+				"/Users/hawk/Documents/School/school.sublime-project",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/StupidModel.rs/styles/stupidmodel.agents.Predator.style_1.xml",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/StupidModel.rs/styles/stupidmodel.agents.Predator.style_0.xml",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/StupidModel.rs/styles/stupidmodel.agents.Predator.style_0.xml",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/src/main/scala/edu/allegheny/SerializationBenchmarks/GeneralTree.java",
+				"/Users/hawk/Documents/School/2013F/CS290/cs290f2013-lab4-team3/src/edu/allegheny/datagenTest/DatagenTests.java",
+				"/Users/hawk/Documents/School/2013F/CS290/cs290f2013-lab4-team3/src/edu/allegheny/datagenTest/DatagenTest.java",
+				"/Users/hawk/Documents/School/2013F/CS290/cs290f2013-lab5-team4/ReleasePlanner/doc/ActivityGraph.dot",
+				"/Users/hawk/Documents/School/2013F/CS210/array",
+				"/Users/hawk/Documents/School/2013S/CS112/QueueLab/src/serialized-form.html",
+				"/Users/hawk/Development/seax/README.md",
+				"/Users/hawk/Development/deebee/src/main/scala/deebee/storage/RelationActor.scala",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015/lectures/week1/StupidModel/repast-licenses/proactive-license.txt",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/PaperReviews.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/CanonicalElements.md",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/PaperReviews.bib",
+				"/Users/hawk/Development/carrden/src/main/scala/ScalatraBootstrap.scala",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420f2014/labs/lab4/WorkingCodeGenerator_mips/list.h",
+				"/Users/hawk/Development/seax/LICENSE",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week3/PaperReviews.pdf",
+				"/Users/hawk/Development/seax/seax-svm/src/lib.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment6/LaTeX Document.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/assignment6/Beamer Presentation.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/Week3",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/cs580s2015-share/terminal.glue",
+				"/Users/hawk/Development/hawkw.github.io/website.sublime-project",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/src/stupidmodel/agents/Predator.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/src/stupidmodel/agents/Predator.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/Report.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/src/stupidmodel/agents/Bug.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/src/stupidmodel/StupidModelContextBuilder.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-12/src/stupidmodel/agents/Bug.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/Labs/Lab1/StupidModel-final/src/stupidmodel/StupidModelContextBuilder.java",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/cs383s2015-weismanm/.gitignore",
+				"/Users/hawk/Development/seax/seax-svm/src/slist.rs",
+				"/Users/hawk/Documents/School/2015S/CMPSC500/InterestStmt.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/PaperReview.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/CMPSC383 Day 3.md",
+				"/Users/hawk/Documents/sotu.c",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2/Summaries.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/CMPSC383 Day 2.md",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week1/SurveyOfInterests.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week1/Trampoline.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week1/new.tex",
+				"/Users/hawk/Documents/School/2015S/CMPSC580/Week2",
+				"/Users/hawk/Development/pathway/build.gradle",
+				"/Users/hawk/Documents/School/2015S/CMPSC383/Notes/Notes/CMPSC383 Day 2.md",
+				"/Users/hawk/Development/deebee/.gitignore",
+				"/Users/hawk/Development/deebee/doc/cs420-final.blg",
+				"/Users/hawk/Development/deebee/doc/assets/final.bib",
+				"/Users/hawk/Development/decaf/function1.j",
+				"/Users/hawk/Development/decaf/for1.j",
+				"/Users/hawk/Development/decaf/function2",
+				"/Users/hawk/Development/pathway/src/main/java/com/meteorcode/pathway/io/ResourceManager.scala",
+				"/Users/hawk/Development/byol",
+				"/Users/hawk/Development/decaf/for4.j",
+				"/Users/hawk/Desktop/op8.j",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/finalExam/recur.s",
+				"/Users/hawk/Development/decaf/if5.j",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/.gitiGNORE",
+				"/Users/hawk/Development/decaf/op1.j",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 17.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/finalExam/420pre.tex",
+				"/Users/hawk/Development/decaf/src/test/resources/lab4-samples/rec.decaf",
+				"/Users/hawk/Development/decaf/src/test/resources/lab4-samples/class1.decaf",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/.gitignore",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/lab1/lab1.bib",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/Labs/decaf/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/Labs/decaf/build/tmp/scala/compilerAnalysis/compileScala.analysis",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/doc/assets/runs.sh-session",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/src/main/scala/edu/allegheny/SerializationBenchmarks/RandomTreeBuilder.java",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab7-team4/.gradle/2.0/taskArtifacts/taskArtifacts.bin",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab4-team4/resources/iTrust.sql",
+				"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/terminal.glue",
+				"/Users/hawk/Development/deebee/build.sbt",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 30.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 29.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab8-team4/graph.r",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 28.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/Notes/CMPSC380 Day 22.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter14/Ch14.tex",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/Notes/CMPSC380 Day 21.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-hawkw/Notes/CMPSC38- Day 22.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter14",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter19",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 17/ECON100 Day 29.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 27.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 17/ECON100 Day 28.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 26.md",
+				"/Users/hawk/Documents/School/2014F/ECON100/Notes/ECON100 Day 25.md",
+				"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab8-team4/doc/assets/380pre.tex",
+				"/Users/hawk/Documents/School/2014F/ECON100/Homework/Chapter9/Ch9.tex"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 94.0,
+				"where_history":
+				[
+					"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/Labs/decaf/src/test/resources/lab2-samples",
+					"/Users/hawk/Documents/School/2014F/CMPSC380/cs380f2014-lab3-team1/analysis/data/small",
+					"/Users/hawk/Development/pathway/src/com/meteorcode/",
+					"/Users/hawk/Development/pathway/src/com/meteorcode/pathway/io"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"</div>",
+					"<div>",
+					"</em>",
+					"<em>",
+					"AP",
+					"ap",
+					"citename",
+					"ested",
+					"ListCell",
+					"Float(2)",
+					"Float(2",
+					"multiplication",
+					"MUL",
+					"SVMInstruction",
+					"InstCONS",
+					"InstCDR",
+					"InstCAR",
+					"InstATOM",
+					"InstLT",
+					"InstGT",
+					"InstEQ",
+					"InstMOD",
+					"InstFDIV",
+					"InstDIV",
+					"InstMUL",
+					"InstSUB",
+					"ADDD",
+					"InstADD",
+					"InstSEL",
+					"InstRAP",
+					"InstDUM",
+					"InstRET",
+					"InstAP",
+					"InstJOIN",
+					"InstLD",
+					"InstLDC",
+					"InstNIL",
+					"InstJ",
+					"t5",
+					"t4",
+					"~~~",
+					"`d'",
+					"`c'",
+					"`b'",
+					"`a'",
+					"verb",
+					"Empty:",
+					"override protected",
+					"contain",
+					"data type",
+					"whileloop",
+					"selectlike",
+					"like",
+					"	",
+					"\\t",
+					"	",
+					"responsiveness",
+					"grammar",
+					"\\linewidth",
+					"line",
+					"MeteorCode",
+					"-",
+					"}\n",
+					"meteorcode.io",
+					"meteorcode.model",
+					"logical",
+					"Logical",
+					"Jar",
+					"jar",
+					"Jar"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"- ",
+					"-",
+					"*",
+					"citeauthor",
+					"subtraction",
+					"     // ---- Unsigned int multiplication ----\n            let mut state = State {\n                stack: list!(AtomCell(UInt(2)), AtomCell(UInt(3))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(UInt(6))));\n\n            // ---- Signed int multiplication----\n            state = State {\n                stack: list!(AtomCell(SInt(-2)), AtomCell(SInt(-3))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(SInt(-6))));\n\n            // ---- Float-float multiplication ----\n            state = State {\n                stack: list!(AtomCell(Float(1.5)), AtomCell(Float(2))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(Float(3.0))));\n\n            // ---- Float-int type lifting multiplication ----\n            state = State {\n                stack: list!(AtomCell(Float(1.5)), AtomCell(SInt(2))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(Float(3.0))));\n\n            state = State {\n                stack: list!(AtomCell(Float(3.5)), AtomCell(UInt(2))),\n                env: Stack::empty(),\n                control: list!(InstCell(SUB)),\n                dump: Stack::empty(),\n            };\n            state = state.eval();\n            assert_eq!(state.stack.peek(), Some(&AtomCell(Float(7.0))));\n        }",
+					"SUB",
+					"Inst",
+					"CONS",
+					"CDR",
+					"CAR",
+					"ATOM",
+					"LT",
+					"GT",
+					"EQ",
+					"MOD",
+					"FDIV",
+					"DIV",
+					"MUL",
+					"SUM",
+					"ADD",
+					"ADDD",
+					"SEL",
+					"RAP",
+					"DUM",
+					"RET",
+					"AP",
+					"JOIN",
+					"LD",
+					"LDC",
+					"NIL",
+					"&",
+					"\\lit{d}",
+					"\\lit{c}",
+					"\\lit{b}",
+					"\\lit{a}",
+					"",
+					"include",
+					"incldude",
+					"data structure",
+					"sorting",
+					"orderby",
+					"limit",
+					",",
+					"\\columnwidth",
+					"column",
+					"_",
+					"meteorcode.pathway.io",
+					"meteorcode.pathway.model",
+					"virtual",
+					"Virtual",
+					"Zip",
+					"zip",
+					"Zip"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/hawk/Development/hawkw.github.io"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/hawk/Development/hawkw.github.io/slides/FuncProgJVM.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 995,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										512,
+										512
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"function_name_status_row": 18,
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/hawk/Development/hawkw.github.io/res.cls",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 25065,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"function_name_status_row": 0,
+									"syntax": "Packages/LaTeX/TeX.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/hawk/Development/hawkw.github.io/slides/index.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 523,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										185,
+										185
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"function_name_status_row": 7,
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 30.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 199.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 92.0
+			},
+			"output.markdown":
+			{
+				"height": 110.0
+			},
+			"output.sbt":
+			{
+				"height": 0.0
+			},
+			"output.sbt_error":
+			{
+				"height": 0.0
+			},
+			"position": "0 200 24 1285 1000 0 0 1680 1027 ",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"School/school.sublime-project"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 323.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 166,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/hawk/Development/hawkw.github.io/website.sublime-workspace",
+			"/Users/hawk/Development/seax/seax.sublime-workspace",
+			"/Users/hawk/Documents/School/school.sublime-workspace",
+			"/Users/hawk/Development/hawkw.github.io/_site/website.sublime-workspace",
+			"/Users/hawk/Documents/School/2014F/2014F.sublime-workspace",
+			"/Users/hawk/Development/pathway/pathway.sublime-workspace",
+			"/Users/hawk/Documents/School/2014F/CMPSC420/cs420-hawk/lab1/answers.sublime-workspace",
+			"/Users/hawk/Documents/School/2014S/2014S.sublime-workspace",
+			"/Users/hawk/Development/breadplan/breadplan.sublime-workspace",
+			"/Users/hawk/Development/breadplan/dotfriles.sublime-workspace"
+		]
+	}
+}

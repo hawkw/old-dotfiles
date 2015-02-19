@@ -1,0 +1,11 @@
+{
+	"dialog": false,
+	"growl_active": true,
+	"machine_name": "Discovery One",
+	"notify_send_active": true,
+	"notify_send_path": "/usr/bin/notify-send",
+	"pushover_active": false,
+	"pushover_user_id": "",
+	"user_id": "5baa7cb59a629603d175c5cdab393a23435fa63d",
+	"user_token": "e21aeee4bb1cd269461575e03c73d72a6d8e9c3e"
+}

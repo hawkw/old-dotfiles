@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "ScalaFormat",
+        "children":
+        [
+            { "caption": "Format", "command": "scala_format" }
+        ]
+    },
+    { "caption": "-", "id": "folder_commands" }
+]
