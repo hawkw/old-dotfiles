@@ -1,3 +1,13 @@
+autoload -Uz vcs_info
+autoload -U colors && colors
+
+zstyle ':vcs_info:*' enable git svn
+zstyle ':vcs_info:git*' formats "%{$fg[yellow]%}‹%b%m%u%c› %{$reset_color%}"
+
+precmd() {
+    vcs_info
+}
+
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
@@ -45,7 +55,7 @@ CASE_SENSITIVE="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git gitfast tmux ssh z brew gradle osx pip python sbt scala)
+plugins=(git gitfast tmux ssh z brew gradle osx pip python sbt scala zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -71,6 +81,9 @@ fi
 # ssh
 export SSH_KEY_PATH="~/.ssh/id.rsa"
 
+# LeJOS EV3
+export EV3_HOME="/opt/lejos-ev3"
+
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
@@ -80,8 +93,10 @@ export SSH_KEY_PATH="~/.ssh/id.rsa"
 alias zshconfig="nano ~/.zshrc && source ~/.zshrc"
 alias tmuxconfig "nano ~/.tmux.conf"
 alias ohmyzsh="subl ~/.oh-my-zsh"
+alias git=hub # use GitHub's hub script for Git. See https://hub.github.com
 
 PERL_MB_OPT="--install_base \"/Users/hawk/perl5\""; export PERL_MB_OPT;
 PERL_MM_OPT="INSTALL_BASE=/Users/hawk/perl5"; export PERL_MM_OPT;
 
 ZSH_TMUX_AUTOSTART=true;
+
