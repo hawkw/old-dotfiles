@@ -1,0 +1,32 @@
+# see EditorConfig.org for documentation
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+# Matches the exact files either package.json or .travis.yml
+[{package.json,.travis.yml}]
+indent_style = space
+indent_size = 2
+
+# 4 space indentation for Python, XML, and JSON
+[*.py]
+indent_style = space
+indent_size = 4
+
+[*.xml]
+indent_style = space
+indent_size = 4
+
+[*.json]
+indent_style = space
+indent_size = 4
+
+# 2 space indentation for Scala
+[*.{scala,sbt}]
+indent_style = space
+indent_size = 2
