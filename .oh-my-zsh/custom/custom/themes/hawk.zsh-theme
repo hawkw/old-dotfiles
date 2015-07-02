@@ -52,6 +52,6 @@ local return_code='%(?..%{$fg[red]%}%? ↵) %{$fg[black]%}[%*]%{$reset_color%}'
 setopt prompt_subst # Enables additional prompt extentions
 autoload -U colors && colors    # Enables colours
 
-PROMPT='%{${fg[magenta]}%}%m%{$reset_color%} %{${fg_bold[black]}%}:: %{$reset_color%}%{${fg[magenta]}%}%3~ %{$reset_color%}%F{yellow}${vcs_info_msg_0_}%f%{${fg_bold[$CARETCOLOR]}%}»%{${reset_color}%} '
+PROMPT='%F{magenta}%m%f %{${fg_bold[black]}%}:: %{$reset_color%}%{${fg[magenta]}%}%3~ %{$reset_color%}%F{yellow}${vcs_info_msg_0_}%f%{${fg_bold[$CARETCOLOR]}%}»%{${reset_color}%} '
 
 RPS1="${return_code}"
