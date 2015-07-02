@@ -1,16 +1,17 @@
 setopt promptsubst
 autoload -Uz vcs_info
 zstyle ':vcs_info:*' enable git svn
-zstyle ':vcs_info:git*' formats "%{$fg[yellow]%}‹%b%m%u%c› %{$reset_color%}"
+zstyle ':vcs_info:*' formats '‹%s:%b%m%u%c›'
+zstyle ':vcs_info:*' actionformats \
+    '%F{5}(%f%s%F{5})%F{3}-%F{5}[%F{2}%b%F{3}|%F{1}%a%F{5}]%f '
 
 precmd() {
     vcs_info
 }
 
-setopt prompt_subst
 if [ $UID -eq 0 ]; then CARETCOLOR="red"; else CARETCOLOR="black"; fi
 
-local return_code="%(?..%{$fg[red]%}%? ↵) %{$fg[black]%}[%*]%{$reset_color%}"
+local return_code='%(?..%{$fg[red]%}%? ↵) %{$fg[black]%}[%*]%{$reset_color%}'
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[yellow]%}‹"
 ZSH_THEME_GIT_PROMPT_SUFFIX="› %{$reset_color%}"
