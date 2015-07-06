@@ -1,13 +1,3 @@
-autoload -Uz vcs_info
-autoload -U colors && colors
-
-zstyle ':vcs_info:*' enable git svn
-zstyle ':vcs_info:git*' formats "%{$fg[yellow]%}‹%b%m%u%c› %{$reset_color%}"
-
-precmd() {
-    vcs_info
-}
-
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
@@ -55,7 +45,7 @@ CASE_SENSITIVE="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git gitfast tmux ssh z brew gradle osx pip python sbt scala zsh-syntax-highlighting)
+plugins=(atom git gitfast ssh z brew gradle osx pip python sbt scala cabal zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -64,6 +54,8 @@ source $ZSH/oh-my-zsh.sh
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/bin/gradle/bin:/usr/texbin:$HOME/.tmuxifier/bin:/Applications/Julia-0.3.0.app/Contents/Resources/julia/bin:/usr/local/bin/go:$HOME/Development/go/bin:$HOME/perl5/bin"
 export GOPATH="$HOME/Development/go"
 # export MANPATH="/usr/local/man:$MANPATH"
+export RUST_SRC_PATH="~/Development/rust/src/"
+
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
@@ -72,7 +64,7 @@ export GOPATH="$HOME/Development/go"
 if [[ -n $SSH_CONNECTION ]]; then
    export EDITOR='nano'
 else
-   export EDITOR='subl'
+   export EDITOR='atom'
 fi
 
 # Compilation flags
@@ -92,11 +84,10 @@ export EV3_HOME="/opt/lejos-ev3"
 # Example aliases
 alias zshconfig="nano ~/.zshrc && source ~/.zshrc"
 alias tmuxconfig "nano ~/.tmux.conf"
-alias ohmyzsh="subl ~/.oh-my-zsh"
+alias ohmyzsh="atom ~/.oh-my-zsh"
 alias git=hub # use GitHub's hub script for Git. See https://hub.github.com
 
 PERL_MB_OPT="--install_base \"/Users/hawk/perl5\""; export PERL_MB_OPT;
 PERL_MM_OPT="INSTALL_BASE=/Users/hawk/perl5"; export PERL_MM_OPT;
 
-ZSH_TMUX_AUTOSTART=true;
-
+ZSH_TMUX_AUTOSTART=false;
