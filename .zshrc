@@ -51,10 +51,15 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
-export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/bin/gradle/bin:/usr/texbin:$HOME/.tmuxifier/bin:/Applications/Julia-0.3.0.app/Contents/Resources/julia/bin:/usr/local/bin/go:$HOME/Development/go/bin:$HOME/perl5/bin"
+export PATH="/usr/local/bin" # prioritize Homebrew bin
+export PATH="$PATH:/usr/bin:/bin:/usr/sbin:/sbin" # other bin dirs
+export PATH="$PATH:/usr/texbin" # latex bin
+export PATH="$PATH:/Applications/Julia-0.3.0.app/Contents/Resources/julia/bin" # Julia
+export PATH="$PATH:/usr/local/bin/go:$HOME/Development/go/bin" # golang
+export PATH="$PATH:$HOME/perl5/bin" # perl 5?
 export GOPATH="$HOME/Development/go"
 # export MANPATH="/usr/local/man:$MANPATH"
-export RUST_SRC_PATH="~/Development/rust/src/"
+export RUST_SRC_PATH="~/Development/rust/src/" # Rust sources (racer needs this)
 
 
 # You may need to manually set your language environment
