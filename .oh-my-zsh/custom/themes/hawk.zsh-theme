@@ -8,7 +8,7 @@ zstyle ':vcs_info:hg*' formats '‹☿%b%m%u%c› '
 zstyle ':vcs_info:svn*' formats '‹⚡%b%m%u%c› '
 zstyle ':vcs_info:*' actionformats \
     '%F{5}(%f%s%F{5})%F{3}-%F{5}[%F{2}%b%F{3}|%F{1}%a%F{5}]%f '
-zstyle ':vcs_info:git*+set-message:*' hooks git-st git-untracked
+zstyle ':vcs_info:git*+set-message:*' hooks git-untracked git-st 
 
 ### git: Show +N/-N when your local branch is ahead-of or behind remote HEAD.
 # Make sure you have added misc to your 'formats':  %m
